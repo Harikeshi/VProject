@@ -1,0 +1,8 @@
+{
+  "cmake.configureArgs": [    
+  ],
+  "files.associations": {
+    "*.cpp": "cpp",
+    "*.h": "cpp"
+  }
+  }
